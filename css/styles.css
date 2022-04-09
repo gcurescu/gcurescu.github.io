@@ -1,0 +1,43 @@
+/* Tag Selectors */
+
+  body {
+    background-color: #FDF6EC;
+  }
+
+  hr {
+    border-color: grey;
+    border-width: 5px;
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+  }
+
+  h1 {
+    color: #DAB88B;
+  }
+
+  h3 {
+    color: #DAB88B;
+  }
+
+table {
+  width: 50%;
+}
+
+img:hover {
+  background-color: white; 
+}
+
+/* Class Selectors */
+
+.uitk-form {
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ID Selectors */
+
+#heading {
+  background-color: white;
+}
