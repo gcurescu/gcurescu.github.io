@@ -1,6 +1,6 @@
 /* Tag Selectors */
-
   body {
+    margin-top: 0;
     background-color: #FDF6EC;
   }
 
@@ -9,31 +9,51 @@
     border-width: 5px;
     border-style: none;
     border-top-style: dotted;
-    width: 5%;
+    width: 2%;
   }
 
   h1 {
+    margin-top: 0;
     color: #DAB88B;
+    width: auto;
   }
 
   h3 {
     color: #DAB88B;
+    text-align: center;
   }
 
 table {
-  width: 50%;
+  width: 75%;
 }
 
 img:hover {
-  background-color: white; 
+  background-color: white;
 }
 
 /* Class Selectors */
+.top-container{
+  background-color: #FDF6EC;
+}
+
+.middle-container{
+  background-color: #FDF6EC;
+}
+
+.bottom-container{
+  background-color: #FDF6EC;
+}
 
 .uitk-form {
   background-color: white;
   margin-left: auto;
   margin-right: auto;
+}
+
+.center {
+margin: auto;
+width: 60%;
+padding: 10px;
 }
 
 /* ID Selectors */
