@@ -58,7 +58,7 @@ h1, h2, h3, h4 {
 }
 
 header {
-  background: #1abc9c;
+  background: #61d1e7;
   padding: 10px;
   -webkit-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.05);
   -moz-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.05);
@@ -66,7 +66,7 @@ header {
   box-shadow: 0 3px 3px rgba(0, 0, 0, 0.05);
 }
 header .logo {
-  color: #1abc9c;
+  color: #61d1e7;
   float: left;
   font-family: "Dosis", arial, tahoma, verdana;
   font-size: 22px;
@@ -106,7 +106,7 @@ header .social .btn {
   content: "";
   width: 3px;
   height: 100%;
-  background: #1abc9c;
+  background: #61d1e7;
   left: 50%;
   top: 0;
   position: absolute;
@@ -122,7 +122,7 @@ header .social .btn {
   position: relative;
 }
 #timeline .timeline-item .timeline-icon {
-  background: #1abc9c;
+  background: #61d1e7;
   width: 50px;
   height: 50px;
   position: absolute;
@@ -159,7 +159,7 @@ header .social .btn {
 }
 #timeline .timeline-item .timeline-content h2 {
   padding: 15px;
-  background: #1abc9c;
+  background: #61d1e7;
   color: #fff;
   margin: -20px -20px 0 -20px;
   font-weight: 300;
@@ -182,7 +182,7 @@ header .social .btn {
   height: 0;
   border-top: 7px solid transparent;
   border-bottom: 7px solid transparent;
-  border-left: 7px solid #1abc9c;
+  border-left: 7px solid #61d1e7;
 }
 #timeline .timeline-item .timeline-content.right {
   float: right;
@@ -192,7 +192,7 @@ header .social .btn {
   right: 45%;
   left: inherit;
   border-left: 0;
-  border-right: 7px solid #1abc9c;
+  border-right: 7px solid #61d1e7;
 }
 
 
@@ -213,7 +213,7 @@ header .social .btn {
     left: 10%;
     margin-left: -6px;
     border-left: 0;
-    border-right: 7px solid #1abc9c;
+    border-right: 7px solid #61d1e7;
   }
   #timeline .timeline-item .timeline-icon {
     left: 0;
